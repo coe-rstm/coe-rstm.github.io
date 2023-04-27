@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Future of transportation</description>
-	<lastBuildDate>Wed, 26 Apr 2023 18:46:25 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Apr 2023 18:21:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -389,7 +389,7 @@ Acquisition of Traffic Data from Google Maps</h1>		</div>
 				<category><![CDATA[Upcoming Activity]]></category>
 		<guid isPermaLink="false">/?p=218</guid>
 
-					<description><![CDATA[Road Safety is NO Accident Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.]]></description>
+					<description><![CDATA[Road Safety is NO Accident Event details: Time: 11:00AM to 12:30PM Date: 1st May 2023 Venue: Auditorium]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="218" class="elementor elementor-218">
 							<div class="elementor-element elementor-element-3b5e3b9 e-con-boxed e-con" data-id="3b5e3b9" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
@@ -404,7 +404,7 @@ Acquisition of Traffic Data from Google Maps</h1>		</div>
 		<div class="elementor-element elementor-element-fa2ba55 e-con-full e-con" data-id="fa2ba55" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
 				<div class="elementor-element elementor-element-03be790 elementor-widget elementor-widget-text-editor" data-id="03be790" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>						</div>
+							<p><strong>Event details:</strong></p><p>Time: 11:00AM to 12:30PM</p><p>Date: 1st May 2023</p><p>Venue: Auditorium</p>						</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-8ec07fc e-con-full e-con" data-id="8ec07fc" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">

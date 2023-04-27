@@ -12,7 +12,7 @@
 	<atom:link href="/category/upcoming/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Future of transportation</description>
-	<lastBuildDate>Wed, 26 Apr 2023 17:49:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Apr 2023 18:21:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,7 +37,7 @@
 				<category><![CDATA[Upcoming Activity]]></category>
 		<guid isPermaLink="false">/?p=218</guid>
 
-					<description><![CDATA[Road Safety is NO Accident Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.]]></description>
+					<description><![CDATA[Road Safety is NO Accident Event details: Time: 11:00AM to 12:30PM Date: 1st May 2023 Venue: Auditorium]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="218" class="elementor elementor-218">
 							<div class="elementor-element elementor-element-3b5e3b9 e-con-boxed e-con" data-id="3b5e3b9" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
@@ -54,7 +54,7 @@
 				<div class="elementor-element elementor-element-03be790 elementor-widget elementor-widget-text-editor" data-id="03be790" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.12.1 - 02-04-2023 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>						</div>
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><strong>Event details:</strong></p><p>Time: 11:00AM to 12:30PM</p><p>Date: 1st May 2023</p><p>Venue: Auditorium</p>						</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-8ec07fc e-con-full e-con" data-id="8ec07fc" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
