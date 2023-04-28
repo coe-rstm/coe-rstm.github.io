@@ -12,7 +12,7 @@
 	<atom:link href="/category/upcoming-projects/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Future of transportation</description>
-	<lastBuildDate>Wed, 26 Apr 2023 18:45:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Apr 2023 07:48:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -40,10 +40,19 @@
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="391" class="elementor elementor-391">
 							<div class="elementor-element elementor-element-3b5e3b9 e-con-boxed e-con" data-id="3b5e3b9" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-c2e0050 elementor-widget elementor-widget-heading" data-id="c2e0050" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-cd9ac0c elementor-widget elementor-widget-page-title" data-id="cd9ac0c" data-element_type="widget" data-widget_type="page-title.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.12.1 - 02-04-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-large">Investigating the causes of traffic accidents in the city</h1>		</div>
+					
+		<div class="hfe-page-title hfe-page-title-wrapper elementor-widget-heading">
+
+											<a href="/">
+						<h1 class="elementor-heading-title elementor-size-large">
+								
+				Category: <span>Upcoming Projects</span>  
+			</h1 > 
+									</a>
+					</div>
+				</div>
 				</div>
 					</div>
 				</div>
@@ -79,10 +88,17 @@
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="388" class="elementor elementor-388">
 							<div class="elementor-element elementor-element-3b5e3b9 e-con-boxed e-con" data-id="3b5e3b9" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-c2e0050 elementor-widget elementor-widget-heading" data-id="c2e0050" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-466c98e elementor-widget elementor-widget-page-title" data-id="466c98e" data-element_type="widget" data-widget_type="page-title.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-large">	
-Effectiveness of current traffic signals</h1>		</div>
+					
+		<div class="hfe-page-title hfe-page-title-wrapper elementor-widget-heading">
+
+								<h1 class="elementor-heading-title elementor-size-large">
+								
+				Category: <span>Upcoming Projects</span>  
+			</h1 > 
+					</div>
+				</div>
 				</div>
 					</div>
 				</div>

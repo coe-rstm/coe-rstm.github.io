@@ -12,7 +12,7 @@
 	<atom:link href="/category/project-2022/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Future of transportation</description>
-	<lastBuildDate>Wed, 26 Apr 2023 18:46:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Apr 2023 07:49:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -40,10 +40,19 @@
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="386" class="elementor elementor-386">
 							<div class="elementor-element elementor-element-3b5e3b9 e-con-boxed e-con" data-id="3b5e3b9" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-c2e0050 elementor-widget elementor-widget-heading" data-id="c2e0050" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-a7bf93b elementor-widget elementor-widget-page-title" data-id="a7bf93b" data-element_type="widget" data-widget_type="page-title.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.12.1 - 02-04-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-large">Identification and Road Safety Audit Of Accident Blackspots</h1>		</div>
+					
+		<div class="hfe-page-title hfe-page-title-wrapper elementor-widget-heading">
+
+											<a href="/">
+						<h1 class="elementor-heading-title elementor-size-large">
+								
+				Category: <span>Project 2022</span>  
+			</h1 > 
+									</a>
+					</div>
+				</div>
 				</div>
 					</div>
 				</div>
@@ -79,10 +88,19 @@
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="384" class="elementor elementor-384">
 							<div class="elementor-element elementor-element-3b5e3b9 e-con-boxed e-con" data-id="3b5e3b9" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-c2e0050 elementor-widget elementor-widget-heading" data-id="c2e0050" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-4a33b6d elementor-widget elementor-widget-page-title" data-id="4a33b6d" data-element_type="widget" data-widget_type="page-title.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-large">	
-Road Accidents Analysis and Road Safety Audit </h1>		</div>
+					
+		<div class="hfe-page-title hfe-page-title-wrapper elementor-widget-heading">
+
+											<a href="/">
+						<h1 class="elementor-heading-title elementor-size-large">
+								
+				Category: <span>Project 2022</span>  
+			</h1 > 
+									</a>
+					</div>
+				</div>
 				</div>
 					</div>
 				</div>
