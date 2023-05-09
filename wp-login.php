@@ -14,7 +14,7 @@
 	<link rel="icon" href="/wp-content/uploads/2023/04/cropped-gndec-logo-fevicon-32x32.png" sizes="32x32">
 <link rel="icon" href="/wp-content/uploads/2023/04/cropped-gndec-logo-fevicon-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="/wp-content/uploads/2023/04/cropped-gndec-logo-fevicon-180x180.png">
-<meta name="msapplication-TileImage" content="httproad.in/wp-content/uploads/2023/04/cropped-gndec-logo-fevicon-270x270.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2023/04/cropped-gndec-logo-fevicon-270x270.png">
 	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">
@@ -23,7 +23,7 @@
 		<div id="login">
 		<h1><a href="https://wordpress.org/">Powered by WordPress</a></h1>
 	
-		<form name="loginform" id="loginform" action="httproad.in/wp-login.php" method="post">
+		<form name="loginform" id="loginform" action="/wp-login.php" method="post">
 			<p>
 				<label for="user_login">Username or Email Address</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" autocomplete="username">
@@ -41,7 +41,7 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In">
-									<input type="hidden" name="redirect_to" value="httproad.in/wp-admin/">
+									<input type="hidden" name="redirect_to" value="/wp-admin/">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
@@ -58,7 +58,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 			<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.3" id="jquery-core-js"></script>
 <script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
 <script id="zxcvbn-async-js-extra">
-var _zxcvbnSettings = {"src":"httproad.in\/wp-includes\/js\/zxcvbn.min.js"};
+var _zxcvbnSettings = {"src":"\/wp-includes\/js\/zxcvbn.min.js"};
 </script>
 <script src="/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
 <script src="/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
