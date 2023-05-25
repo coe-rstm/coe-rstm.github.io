@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Future of transportation</description>
-	<lastBuildDate>Tue, 09 May 2023 17:57:13 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 May 2023 09:51:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/04/cropped-gndec-logo-fevicon-32x32.png</url>
@@ -56,6 +56,29 @@
 				</div>
 					</div>
 				</div>
+		<div class="elementor-element elementor-element-5343f6a e-con-boxed e-con" data-id="5343f6a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-dd14fa1 e-con-full e-con" data-id="dd14fa1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-168d463 elementor-widget elementor-widget-image" data-id="168d463" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.12.1 - 02-04-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="819" height="1024" src="/wp-content/uploads/2023/05/1-1-819x1024.jpg" class="attachment-large size-large wp-image-999" alt="" loading="lazy" srcset="/wp-content/uploads/2023/05/1-1-819x1024.jpg 819w, /wp-content/uploads/2023/05/1-1-240x300.jpg 240w, /wp-content/uploads/2023/05/1-1-768x960.jpg 768w, /wp-content/uploads/2023/05/1-1-1229x1536.jpg 1229w, /wp-content/uploads/2023/05/1-1-1639x2048.jpg 1639w" sizes="(max-width: 819px) 100vw, 819px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-737013f e-con-full e-con" data-id="737013f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-6036ce3 elementor-widget elementor-widget-image" data-id="6036ce3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1024" height="819" src="/wp-content/uploads/2023/05/1-2-1024x819.jpg" class="attachment-large size-large wp-image-1002" alt="" loading="lazy" srcset="/wp-content/uploads/2023/05/1-2-1024x819.jpg 1024w, /wp-content/uploads/2023/05/1-2-300x240.jpg 300w, /wp-content/uploads/2023/05/1-2-768x614.jpg 768w, /wp-content/uploads/2023/05/1-2-1536x1229.jpg 1536w, /wp-content/uploads/2023/05/1-2-2048x1638.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-fb126ca e-con-full e-con" data-id="fb126ca" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-a3d7e99 elementor-widget elementor-widget-image" data-id="a3d7e99" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/05/2-1-1024x768.jpg" class="attachment-large size-large wp-image-1001" alt="" loading="lazy" srcset="/wp-content/uploads/2023/05/2-1-1024x768.jpg 1024w, /wp-content/uploads/2023/05/2-1-300x225.jpg 300w, /wp-content/uploads/2023/05/2-1-768x576.jpg 768w, /wp-content/uploads/2023/05/2-1.jpg 1028w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+					</div>
+				</div>
 		<div class="elementor-element elementor-element-5ee2a0c e-con-boxed e-con" data-id="5ee2a0c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-03be790 elementor-widget elementor-widget-text-editor" data-id="03be790" data-element_type="widget" data-widget_type="text-editor.default">
@@ -65,19 +88,46 @@
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-478f646 e-con-boxed e-con" data-id="478f646" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+		<div class="elementor-element elementor-element-b0c5cf1 e-con-boxed e-con" data-id="b0c5cf1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-5574e05 e-con-full e-con" data-id="5574e05" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
-				<div class="elementor-element elementor-element-1cc7d2c elementor-widget elementor-widget-image" data-id="1cc7d2c" data-element_type="widget" data-widget_type="image.default">
+		<div class="elementor-element elementor-element-e62c1c1 e-con-full e-con" data-id="e62c1c1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-30de689 elementor-widget elementor-widget-image" data-id="30de689" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.12.1 - 02-04-2023 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="378" height="321" src="/wp-content/uploads/2023/04/Picture2.png" class="attachment-large size-large wp-image-899" alt="" loading="lazy" srcset="/wp-content/uploads/2023/04/Picture2.png 378w, /wp-content/uploads/2023/04/Picture2-300x255.png 300w" sizes="(max-width: 378px) 100vw, 378px" />															</div>
+															<img decoding="async" width="1024" height="576" src="/wp-content/uploads/2023/05/3-1024x576.jpg" class="attachment-large size-large wp-image-993" alt="" loading="lazy" srcset="/wp-content/uploads/2023/05/3-1024x576.jpg 1024w, /wp-content/uploads/2023/05/3-300x169.jpg 300w, /wp-content/uploads/2023/05/3-768x432.jpg 768w, /wp-content/uploads/2023/05/3-1536x864.jpg 1536w, /wp-content/uploads/2023/05/3-2048x1152.jpg 2048w, /wp-content/uploads/2023/05/3-800x450.jpg 800w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-4b63239 elementor-widget elementor-widget-image" data-id="4b63239" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1024" height="576" src="/wp-content/uploads/2023/05/1-1024x576.jpg" class="attachment-large size-large wp-image-991" alt="" loading="lazy" srcset="/wp-content/uploads/2023/05/1-1024x576.jpg 1024w, /wp-content/uploads/2023/05/1-300x169.jpg 300w, /wp-content/uploads/2023/05/1-768x432.jpg 768w, /wp-content/uploads/2023/05/1-1536x864.jpg 1536w, /wp-content/uploads/2023/05/1-2048x1152.jpg 2048w, /wp-content/uploads/2023/05/1-800x450.jpg 800w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
 				</div>
 				</div>
-		<div class="elementor-element elementor-element-d98fd19 e-con-full e-con" data-id="d98fd19" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
-				<div class="elementor-element elementor-element-f7fc716 elementor-widget elementor-widget-image" data-id="f7fc716" data-element_type="widget" data-widget_type="image.default">
+		<div class="elementor-element elementor-element-6eb5647 e-con-full e-con" data-id="6eb5647" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-89ee048 elementor-widget elementor-widget-image" data-id="89ee048" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="370" height="321" src="/wp-content/uploads/2023/04/Picture1.png" class="attachment-large size-large wp-image-898" alt="" loading="lazy" srcset="/wp-content/uploads/2023/04/Picture1.png 370w, /wp-content/uploads/2023/04/Picture1-300x260.png 300w" sizes="(max-width: 370px) 100vw, 370px" />															</div>
+															<img decoding="async" width="1024" height="576" src="/wp-content/uploads/2023/05/4-1024x576.jpg" class="attachment-large size-large wp-image-994" alt="" loading="lazy" srcset="/wp-content/uploads/2023/05/4-1024x576.jpg 1024w, /wp-content/uploads/2023/05/4-300x169.jpg 300w, /wp-content/uploads/2023/05/4-768x432.jpg 768w, /wp-content/uploads/2023/05/4-1536x864.jpg 1536w, /wp-content/uploads/2023/05/4-2048x1152.jpg 2048w, /wp-content/uploads/2023/05/4-800x450.jpg 800w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-3eb0824 elementor-widget elementor-widget-image" data-id="3eb0824" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1024" height="576" src="/wp-content/uploads/2023/05/6-1024x576.jpg" class="attachment-large size-large wp-image-996" alt="" loading="lazy" srcset="/wp-content/uploads/2023/05/6-1024x576.jpg 1024w, /wp-content/uploads/2023/05/6-300x169.jpg 300w, /wp-content/uploads/2023/05/6-768x432.jpg 768w, /wp-content/uploads/2023/05/6-1536x864.jpg 1536w, /wp-content/uploads/2023/05/6-2048x1152.jpg 2048w, /wp-content/uploads/2023/05/6-800x450.jpg 800w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a8abfc4 e-con-full e-con" data-id="a8abfc4" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-8d3e4fe elementor-widget elementor-widget-image" data-id="8d3e4fe" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1024" height="576" src="/wp-content/uploads/2023/05/7-1024x576.jpg" class="attachment-large size-large wp-image-997" alt="" loading="lazy" srcset="/wp-content/uploads/2023/05/7-1024x576.jpg 1024w, /wp-content/uploads/2023/05/7-300x169.jpg 300w, /wp-content/uploads/2023/05/7-768x432.jpg 768w, /wp-content/uploads/2023/05/7-1536x864.jpg 1536w, /wp-content/uploads/2023/05/7-2048x1152.jpg 2048w, /wp-content/uploads/2023/05/7-800x450.jpg 800w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-219476f elementor-widget elementor-widget-image" data-id="219476f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1024" height="576" src="/wp-content/uploads/2023/05/8-1024x576.jpg" class="attachment-large size-large wp-image-998" alt="" loading="lazy" srcset="/wp-content/uploads/2023/05/8-1024x576.jpg 1024w, /wp-content/uploads/2023/05/8-300x169.jpg 300w, /wp-content/uploads/2023/05/8-768x432.jpg 768w, /wp-content/uploads/2023/05/8-1536x864.jpg 1536w, /wp-content/uploads/2023/05/8-2048x1152.jpg 2048w, /wp-content/uploads/2023/05/8-800x450.jpg 800w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1d095db e-con-full e-con" data-id="1d095db" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-654e244 elementor-widget elementor-widget-image" data-id="654e244" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1024" height="576" src="/wp-content/uploads/2023/05/5-1024x576.jpg" class="attachment-large size-large wp-image-995" alt="" loading="lazy" srcset="/wp-content/uploads/2023/05/5-1024x576.jpg 1024w, /wp-content/uploads/2023/05/5-300x169.jpg 300w, /wp-content/uploads/2023/05/5-768x432.jpg 768w, /wp-content/uploads/2023/05/5-1536x864.jpg 1536w, /wp-content/uploads/2023/05/5-2048x1152.jpg 2048w, /wp-content/uploads/2023/05/5-800x450.jpg 800w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-0efff05 elementor-widget elementor-widget-image" data-id="0efff05" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1024" height="576" src="/wp-content/uploads/2023/05/2-1024x576.jpg" class="attachment-large size-large wp-image-992" alt="" loading="lazy" srcset="/wp-content/uploads/2023/05/2-1024x576.jpg 1024w, /wp-content/uploads/2023/05/2-300x169.jpg 300w, /wp-content/uploads/2023/05/2-768x432.jpg 768w, /wp-content/uploads/2023/05/2-1536x864.jpg 1536w, /wp-content/uploads/2023/05/2-2048x1152.jpg 2048w, /wp-content/uploads/2023/05/2-800x450.jpg 800w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
 				</div>
 				</div>
 					</div>

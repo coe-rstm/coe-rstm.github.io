@@ -4,11 +4,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Log In &lsaquo; Centre of Excellence for Road Safety and Traffic Management &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
-<link rel="stylesheet" id="dashicons-css" href="/wp-includes/css/dashicons.min.css?ver=6.2" media="all">
-<link rel="stylesheet" id="buttons-css" href="/wp-includes/css/buttons.min.css?ver=6.2" media="all">
-<link rel="stylesheet" id="forms-css" href="/wp-admin/css/forms.min.css?ver=6.2" media="all">
-<link rel="stylesheet" id="l10n-css" href="/wp-admin/css/l10n.min.css?ver=6.2" media="all">
-<link rel="stylesheet" id="login-css" href="/wp-admin/css/login.min.css?ver=6.2" media="all">
+<link rel="stylesheet" id="dashicons-css" href="/wp-includes/css/dashicons.min.css?ver=6.2.2" media="all">
+<link rel="stylesheet" id="buttons-css" href="/wp-includes/css/buttons.min.css?ver=6.2.2" media="all">
+<link rel="stylesheet" id="forms-css" href="/wp-admin/css/forms.min.css?ver=6.2.2" media="all">
+<link rel="stylesheet" id="l10n-css" href="/wp-admin/css/l10n.min.css?ver=6.2.2" media="all">
+<link rel="stylesheet" id="login-css" href="/wp-admin/css/login.min.css?ver=6.2.2" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 	<link rel="icon" href="/wp-content/uploads/2023/04/cropped-gndec-logo-fevicon-32x32.png" sizes="32x32">
@@ -55,7 +55,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
 			<a href="/">&larr; Go to Centre of Excellence for Road Safety and Traffic Management</a>		</p>
 		<div class="privacy-policy-page-link"><a class="privacy-policy-link" href="/privacy-policy/" rel="privacy-policy">Privacy Policy</a></div>	</div>
-			<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.3" id="jquery-core-js"></script>
+			<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.4" id="jquery-core-js"></script>
 <script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
 <script id="zxcvbn-async-js-extra">
 var _zxcvbnSettings = {"src":"\/wp-includes\/js\/zxcvbn.min.js"};
@@ -72,16 +72,16 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script id="password-strength-meter-js-extra">
 var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
 </script>
-<script src="/wp-admin/js/password-strength-meter.min.js?ver=6.2" id="password-strength-meter-js"></script>
+<script src="/wp-admin/js/password-strength-meter.min.js?ver=6.2.2" id="password-strength-meter-js"></script>
 <script src="/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">
 var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src="/wp-includes/js/wp-util.min.js?ver=6.2" id="wp-util-js"></script>
+<script src="/wp-includes/js/wp-util.min.js?ver=6.2.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"4bb01cee1a"};
+var userProfileL10n = {"user_id":"0","nonce":"034cc8d2b1"};
 </script>
-<script src="/wp-admin/js/user-profile.min.js?ver=6.2" id="user-profile-js"></script>
+<script src="/wp-admin/js/user-profile.min.js?ver=6.2.2" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>
